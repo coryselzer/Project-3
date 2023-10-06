@@ -41,7 +41,7 @@ We will focus on three goals:
 FYI: You can run your Python Flask App by going to your terminal, switching to your dev environment, then cd'ing to the flask/html folder and typing in 'python test_app.py'.
 
 ### API Endpoints for Jsonified Data
-1. */api/collision
-2. */api/collision_deaths
-3. */api/collision_deaths_num
-4. */api/injuries
+1. /api/collision
+2. /api/collision_deaths
+3. /api/collision_deaths_num
+4. /api/injuries
