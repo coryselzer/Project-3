@@ -10,7 +10,7 @@ This project aims to create an interactive dashboard to visualize and analyze Ne
 
 ### Dataset
 https://www.kaggle.com/datasets/utkarshx27/motor-vehicle-collisions
-*Note - This dataset was too large to upload directly to GitHub
+*Note - This dataset was too large to upload directly to GitHub but you should put the CSV file in the Resources folder.
 
 ### Goals
 We will focus on three goals:
