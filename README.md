@@ -3,7 +3,7 @@
 Group project with Cory Selzer, Joel Johnson, Luis Pineda, Ehsan Aref Adib, and Brannan Geshwind
 -----------------------------------------------------------------------------------------------
 
-## NYC Collision Data Interactive Map Proposal
+## NYC Collision Analysis with Interactive Dashboard
 
 ### Overview
 This project aims to create an interactive dashboard to visualize and analyze New York City collision data.  The project will offer different views for a comprehensive exploration of the data.  We used a dataset from Kaggle to power this project.
