@@ -13,7 +13,7 @@ d3.json('/api/collision').then(function(responseData) {
     // Trace for the Greek Data
     let trace1 = {
         x: responseData.map(row => row.borough),
-        y: responseData.map(row => row.collisions),
+        y: responseData.map(row => row.number_of_collisions),
         type: "bar"
     };
     
@@ -63,7 +63,7 @@ function optionChanged() {
     console.log('test data pull',numbers_data)
 
     let selectedBoroughData = numbers_data.find(entry => entry["borough"] === datasetId.toString());
-    let selectedBoroughpie = percentage_data.find(entry => entry["boroughs"] === datasetId.toString());
+    let selectedBoroughpie = percentage_data.find(entry => entry["borough"] === datasetId.toString());
     let selectedBoroughinjbar = injuries_data.find(entry => entry["borough"] === datasetId.toString());
 
     console.log('selected_borough_data',selectedBoroughData)
