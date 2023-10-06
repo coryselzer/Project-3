@@ -1,5 +1,5 @@
 # Project 3
-Group project with Cory Selzer, Joel Johnson, Luis Pineda, and Ehsan Aref Adib
+Group project with Cory Selzer, Joel Johnson, Luis Pineda, Ehsan Aref Adib, and Brannan Geshwind
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 # Project 3 Initial Proposal
