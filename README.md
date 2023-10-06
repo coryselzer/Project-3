@@ -34,5 +34,5 @@ We will focus on three goals:
 ### Step by Step
 1. Travel to Kaggle to download CSV data (*note* - CSV is too large to upload directly to GitHub)
 2. Run Jupyter Lab code to clean CSV data (run Project_3_Cleaning.ipynb first to create CSVs for requisite Jupyter Notebooks.
-3. Create schemas (SQL - PGAdmin) to create tables and then import the CSVs to the tables.
+3. Create schemas (SQL - PGAdmin) to create tables and then import the CSVs to the tables. (*NOTE - THE DATABASE YOU CREATE MUST BE NAMED used_car_data)
 4. Run the Python Flask App to connect to the Dashboard (*NOTE - MAKE SURE TO HAVE YOUR PROPER LOCAL HOST NUMBER (ie 5432) IN THE DATABASE ENGINE!!!) 
